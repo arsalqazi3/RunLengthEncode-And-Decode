@@ -1,0 +1,4 @@
+Compressed data:
+o4k4
+Decompressed data:
+oooookkkkkkkkk
